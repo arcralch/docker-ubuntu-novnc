@@ -1,4 +1,4 @@
-This repository is building image in Docker, It is basing SO Ubuntu 18.04 with novnc and vncthis
+This repository is building image in Docker, It is basing SO Ubuntu 18.04 with novnc and vnc
 
 ===Download Image===
 
